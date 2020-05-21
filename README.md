@@ -8,14 +8,14 @@
 
 ### Preview
 
-One | Only Administrator can access this page
-![image-20191025143441031](./imgs/admin.png)
-
-Two
+One
 ![image-20191025143441031](./imgs/login.png)
 
-Three
+Two
 ![image-20191025143441031](./imgs/register.png)
+
+Three | Only Administrator can access this page
+![image-20191025143441031](./imgs/admin.png)
 
 Four
 ![image-20191025143441031](./imgs/home1.png)
