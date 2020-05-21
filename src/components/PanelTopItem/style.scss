@@ -1,0 +1,14 @@
+.first_row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.content {
+  margin-top: 8px;
+  padding-top: 8px;
+  border-top: 1px solid #f0f0f0;
+  p {
+    margin-bottom: 0;
+  }
+}
