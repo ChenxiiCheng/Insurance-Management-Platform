@@ -8,34 +8,34 @@
 
 ### Preview
 
-One
+Login Page
 ![image-20191025143441031](./imgs/login.png)
 
-Two
+Register Page
 ![image-20191025143441031](./imgs/register.png)
 
-Three | Only Administrator can access this page
+Admin User Panel | Only Administrator can access this page
 ![image-20191025143441031](./imgs/admin.png)
 
-Four
-![image-20191025143441031](./imgs/home1.png)
-
-Five
-![image-20191025143441031](./imgs/payment.png)
-
-Six
-![image-20191025143441031](./imgs/home2.png)
-
-Seven
-![image-20191025143441031](./imgs/home3.png)
-
-Eight
+User Info Page
 ![image-20191025143441031](./imgs/customer.png)
 
-Nine
+Edit Home Insurance Info
+![image-20191025143441031](./imgs/home1.png)
+
+Payment
+![image-20191025143441031](./imgs/payment.png)
+
+Home Insurance Page
+![image-20191025143441031](./imgs/home2.png)
+
+Buy Home Insurance
+![image-20191025143441031](./imgs/home3.png)
+
+Auto Insurance Page
 ![image-20191025143441031](./imgs/auto1.png)
 
-Ten
+Buy Auto Insurance
 ![image-20191025143441031](./imgs/auto2.png)
 
 ---
