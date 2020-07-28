@@ -2,7 +2,7 @@
 
 > Insurance Purchase Platform
 
-[Customer Purchase Platform | Deploy on Tencent Shanghai Cloud Server](http://172.81.242.65:3000/#/login) | Since it is a SPA project, access a little bit slow. May consider refactoring this project by using next.js in the future.
+[Customer Purchase Platform | Deploy on Tencent Shanghai Cloud Server](http://172.81.242.65:3000/#/login) | Since it is a SPA project, the first screen rendering is a little bit slow. May consider refactoring this project by using next.js in the future.
 
 [Insurance Official Website | Deploy on Netlify](https://insurance.chenxii.xyz)
 
