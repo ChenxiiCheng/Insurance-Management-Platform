@@ -2,9 +2,9 @@
 
 > Insurance Purchase Platform
 
-[Purchase Platform | Deploy on Tencent Shanghai Cloud Server](http://172.81.242.65:3000/#/login) | Website Link | Access a little bit slow
+[Customer Purchase Platform | Deploy on Tencent Shanghai Cloud Server](http://172.81.242.65:3000/#/login) | Since it is a SPA project, access a little bit slow. May consider refactoring this project by using next.js in the future.
 
-[Insurance Official Website | Deploy on Netlify](https://insurance.chenxii.xyz) | Website Link
+[Insurance Official Website | Deploy on Netlify](https://insurance.chenxii.xyz)
 
 ### Preview
 
@@ -59,15 +59,15 @@ Buy Auto Insurance
 - axios
 - sass
 - ant design ui
-- react-router-dom
+- react router
 
 ---
 
 ### Run in local | 本地运行
 
 ```
-git clone https://github.com/ChenxiiCheng/Management-Platform-Admin.git
-cd Management-Platform-Admin
+git clone https://github.com/ChenxiiCheng/Insurance-Management-Platform.git
+cd Insurance-Management-Platform
 npm install  // Or yarn install
 npm run start // Or yarn start
 ```
