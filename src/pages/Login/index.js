@@ -121,7 +121,7 @@ const Login = (props) => {
                       <Icon type="user" />
                       <input
                         className="form__input"
-                        placeholder="Username: admin username is admin"
+                        placeholder="Username: admin1 (only for test)"
                       />
                     </div>
                   )}
@@ -146,7 +146,7 @@ const Login = (props) => {
                       <input
                         className="form__input"
                         type="password"
-                        placeholder="Password: admin password is 123456"
+                        placeholder="Password: 123456 (only for test)"
                         onKeyUp={handleEnterPress}
                       />
                     </div>
