@@ -3,7 +3,6 @@ import { getUserToken } from '../utils/index';
 
 const instance = axios.create({
   baseURL: '3.85.41.119:4000',
-  timeout: 5000,
 });
 
 // 全局请求拦截
