@@ -2,7 +2,7 @@ import axios from 'axios';
 import { getUserToken } from '../utils/index';
 
 const instance = axios.create({
-  baseURL: 'http://34.229.136.224:4000',
+  baseURL: '34.229.136.224:4000',
   timeout: 5000,
 });
 
